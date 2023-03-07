@@ -17,7 +17,7 @@
 .container{
     max-width:1200px;
     margin:0 auto;
-    height:100vh;
+/*     height:100vh; */
 }
 .nav{
     display:flex;
@@ -100,7 +100,7 @@
     position:absolute;
 }
 .faded-text{
-    bottom:-3.5rem;
+    bottom:-3rem;
     left:5rem;
     font-size: 5rem;
     font-weight: bold;
